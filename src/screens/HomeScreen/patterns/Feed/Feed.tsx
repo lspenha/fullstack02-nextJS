@@ -60,7 +60,7 @@ Feed.Header = () => {
             borderRadius: '100%',
           }}
           src={templateConfig?.personal?.avatar}
-          alt="Imagem de perfil do Mario Souto"
+          alt="Imagem de perfil do Souto"
         />
 
         <Box
