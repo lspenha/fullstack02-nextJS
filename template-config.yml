@@ -1,0 +1,11 @@
+site:
+  title: "Lucas Penha - Timeline"
+  description: "Bem vindo a minha timeline pessoal"
+personal:
+  name: "Lucas Penha"
+  avatar: "https://github.com/lspenha.png"
+  socialNetworks:
+    youtube: "https://www.youtube.com/"
+    github: "https://www.github.com/lspenha/"
+    twitter: "https://www.twitter.com/"
+    linkedin: "https://www.linkedin.com/in/olucaspenha/"
